@@ -1,0 +1,2 @@
+Prefix plugins/CenterScale/example/
+Plugin CenterScale inputfile parameters.txt outputfile centerscale
